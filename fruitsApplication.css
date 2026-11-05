@@ -1,0 +1,53 @@
+header {
+    text-align: center;
+    font-size: 20px;
+}
+
+.content {
+    text-align: center;
+}
+
+.intro {
+    color: rgb(55, 168, 42);
+    text-shadow: 6px 8px 5px lightgreen;
+}
+
+#unique {
+    color: purple;
+    font-family: Lucida Sans;
+    font-weight: bolder;
+
+}
+
+div>h3 {
+    text-decoration: underline;
+}
+
+.apple {
+    color: red;
+}
+
+.mango {
+    color: yellowgreen;
+}
+
+.orange {
+    color: orange;
+}
+
+.banana {
+    color: yellow;
+}
+
+footer {
+    text-align: center;
+}
+
+.about {
+    color: black;
+    text-decoration: underline;
+}
+
+#main {
+    border: 2px;
+}
